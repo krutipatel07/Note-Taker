@@ -1,6 +1,19 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Call bank on friday",
+      "text": "appointment call",
+      "id": "5fa3591c-117a-453f-b0af-02dbb2de0d75"
+    },
+    {
+      "title": "Finish payroll",
+      "text": "payroll of employees are done!!",
+      "id": "824b0c62-0405-468e-9fdc-0cb6357cb35d"
+    },
+    {
+      "title": "Client lunch on Monday",
+      "text": "lunch at 12:00 pm",
+      "id": "a9da13b8-0117-4bc7-adcf-53a6e1fed8f7"
     }
-]
+  ]
+}
