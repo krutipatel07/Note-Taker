@@ -31,12 +31,12 @@ View the deployed page at [Note Taker](https://express-js-challenge.herokuapp.co
 <br />
     
 ### Screenshots
-![Splash Page Screenshot](./assets/images/screenshot1.png)
+![Splash Page Screenshot](./assets/images/Screenshot1.png)
 Splash page for the Note Taker application.
 
 <br />
 
-![Note Taker Screenshot](./assets/images/screenshot2.png)
+![Note Taker Screenshot](./assets/images/Screenshot2.png)
 The Note Taker application in use.
 
 <br />
